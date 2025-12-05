@@ -17,7 +17,7 @@ Firefly – Firefly Algorithm
 
 GOA – Grasshopper Optimization Algorithm
 
-HGWPSO – Hybrid Grey Wolf with Particle Swarm Optimization
+AWOA – Hybrid AO with WOA
 
 HHO – Harris Hawks Optimization
 
